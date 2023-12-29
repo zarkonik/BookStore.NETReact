@@ -1,0 +1,1 @@
+ako nece da se pokrene lepo..u task manageru enduj task sa imenom projekta.
