@@ -9,8 +9,7 @@
         public string Genre {  get; set; }
         public int Price { get; set; }
         public string Picture { get; set; }
-        //public string ImageName { get; set; }
-        //public byte[] ImageBytes { get; set; }
+       
 
     }
 }
